@@ -1,0 +1,13 @@
+*.gitignore linguist-language=Git linguist-vendored=false
+*.json linguist-language=JSON linguist-vendored=false
+*.md linguist-language=Markdown linguist-vendored=false
+*.mp4 linguist-language=Mp4 linguist-vendored=false
+*.pbxproj linguist-language=Pbxproj linguist-vendored=false
+*.plist linguist-language=Plist linguist-vendored=false
+*.png linguist-language=Png linguist-vendored=false
+*.storyboard linguist-language=Storyboard linguist-vendored=false
+*.swift linguist-language=Swift linguist-vendored=false
+*.xcscheme linguist-language=Xcscheme linguist-vendored=false
+*.xcsettings linguist-language=Xcsettings linguist-vendored=false
+*.xcuserstate linguist-language=Xcuserstate linguist-vendored=false
+*.xcworkspacedata linguist-language=Xcworkspacedata linguist-vendored=false
